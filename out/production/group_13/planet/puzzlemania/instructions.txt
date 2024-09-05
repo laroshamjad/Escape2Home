@@ -1,0 +1,14 @@
+WELCOME TO PUZZLE MANIA!
+
+The objective of the game is to complete the puzzle.
+
+To play this game, select pieces from above the grid and click on the grid to place the piece.
+
+For every three pieces you place incorrectly, you lose a life.
+
+The image must form using the pieces will be shown initially and then the pieces will be removed,
+leaving you with an empty grid.
+
+It is up to you to solve the puzzle in order to retrieve the flashlight from Planet Puzzle Mania!
+
+Good luck!

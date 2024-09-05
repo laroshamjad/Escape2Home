@@ -1,0 +1,11 @@
+You have encountered a spaceship.
+
+Each spaceship has three math aliens.
+
+Each alien will ask you a math question.
+
+Answer correctly, and you will be fine.
+
+Answer wrong, and you lose a life!
+
+Beat the aliens to return to navigating the rest of the planets to return home

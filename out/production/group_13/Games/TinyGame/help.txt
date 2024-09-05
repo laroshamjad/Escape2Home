@@ -1,0 +1,25 @@
+
+To play this game you must move between locations and interact with objects by typing one or two word commands.
+
+Some commands are motion commands. These will move you from planet to planet.
+You must only type these when you are asked to do so.
+Motion commands include:
+
+MemoryMaze, HiddenHaven, PuzzleMania, CosmicCode.
+
+Note: choose your planets carefully, as some may cause you to experience an alien invasion!
+Upon an alien invasion, you must successfully answer their questions,
+and you may move on to your selected planet.
+
+Further Note: If you have 5+ lives within an alien invasion, you will automatically be able to use your superheart.
+Your superheart will allow you to not have any lives affected throughout the invasion.
+If you have less than 5 lives, you are not elligible for a superheart, so play carefully!
+
+There are other action commands in the game. These include:
+HELP: this will display instructions
+
+The game is over when your player has successfully won each game
+and collected all tools to fix their spaceship, or when your player loses all lives.
+
+
+

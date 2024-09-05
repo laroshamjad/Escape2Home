@@ -1,0 +1,7 @@
+You have landed on planet Memory Maze. 
+In Memory Maze, once the instructions clear, you will be given 10 seconds to view the 16 cards to match.
+Once the ten seconds are up, you must click two of the cards to match them.
+If the cards selected are not a pair, the cards will not flip over.
+If the cards selected are the same, they will turn around to display the matching cards.
+Every three incorrect picks will result in a lost life.
+Play carefully and good luck!
